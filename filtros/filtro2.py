@@ -2,8 +2,6 @@
 """
 Spyder Editor
 
-This is a temporary script file.
-
 @author: Abraão Állysson dos Santos Honório
 """
 

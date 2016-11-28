@@ -4,7 +4,6 @@ Spyder Editor
 
 @author: Abraão Állysson dos Santos Honório
 
-This is a temporary script file.
 """
 
 from numpy import *
