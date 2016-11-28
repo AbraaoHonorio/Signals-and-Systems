@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 28 12:38:35 2016
 
-@author: Abraão Állysson dos Santos Honório
+@author: Abraão Állysson dos Santos Honório  - Sinais e Sistemas Diâmicos 2016.1 - UFPB
 
 Algoritmo
 1 - Determinar X(jw)
